@@ -3,7 +3,7 @@
 This repository is dedicated to showcasing the creation and design of dynamic, insightful dashboards using Microsoft Excel. The aim is to demonstrate how Excel can be leveraged for data visualization and reporting, enabling stakeholders to make data-driven decisions effectively.
 
 ### Key Features
-Interactive Dashboards: Dynamic visuals with slicers, drop-downs, and conditional formatting.
+###Interactive Dashboards: ### Dynamic visuals with slicers, drop-downs, and conditional formatting.
 
 Data Analysis Tools: Implementation of PivotTables, PivotCharts, and advanced Excel functions.
 
