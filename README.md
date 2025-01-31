@@ -5,5 +5,5 @@ This repository is dedicated to showcasing the creation and design of dynamic, i
 ### Key Features
 1. Interactive Dashboards: Dynamic visuals with slicers, drop-downs, and conditional formatting.
 2. Data Analysis Tools: Implementation of PivotTables, PivotCharts, and advanced Excel functions.
-3.Custom Visualization: Use of charts like waterfall, combo charts, sparklines, and custom layouts.
-4.KPI Monitoring: Track performance metrics and highlight actionable insights.
+3. Custom Visualization: Use of charts like waterfall, combo charts, sparklines, and custom layouts.
+4. KPI Monitoring: Track performance metrics and highlight actionable insights.
